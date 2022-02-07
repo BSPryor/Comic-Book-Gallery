@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a72d1913-3c07-4459-93ad-a081469e29fd": {
+      "ProjectGuid": "a72d1913-3c07-4459-93ad-a081469e29fd",
+      "DisplayName": "ComicBookGalleryApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
