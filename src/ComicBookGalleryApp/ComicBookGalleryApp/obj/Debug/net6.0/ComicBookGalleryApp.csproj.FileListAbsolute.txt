@@ -23,3 +23,4 @@ C:\Users\Ben\source\repos\Comic-Book-Gallery\src\ComicBookGalleryApp\ComicBookGa
 C:\Users\Ben\source\repos\Comic-Book-Gallery\src\ComicBookGalleryApp\ComicBookGalleryApp\obj\Debug\net6.0\ref\ComicBookGalleryApp.dll
 C:\Users\Ben\source\repos\Comic-Book-Gallery\src\ComicBookGalleryApp\ComicBookGalleryApp\obj\Debug\net6.0\ComicBookGalleryApp.pdb
 C:\Users\Ben\source\repos\Comic-Book-Gallery\src\ComicBookGalleryApp\ComicBookGalleryApp\obj\Debug\net6.0\ComicBookGalleryApp.genruntimeconfig.cache
+C:\Users\Ben\source\repos\Comic-Book-Gallery\src\ComicBookGalleryApp\ComicBookGalleryApp\obj\Debug\net6.0\ComicBookGalleryApp.csproj.AssemblyReference.cache
